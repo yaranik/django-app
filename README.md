@@ -1,4 +1,4 @@
-# django-app
+# django-app/Blogxt
 It is my public blog
 Now you can:
 - make account
